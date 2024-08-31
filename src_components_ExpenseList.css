@@ -1,0 +1,9 @@
+.expense-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.expense-item {
+  border-bottom: 1px solid #ccc;
+  padding: 10px 0;
+}
