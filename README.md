@@ -28,7 +28,7 @@ The application emphasizes ease of use, efficiency, and accuracy, making it an e
 
 **Name**: Roberta Holst  
 **Email**: roberta864holst@outlook.com  
-**Website**: [UPSers](https://www.upsers.com)  
+**Website**: UPSers  
 Roberta Holst is a seasoned software developer with over 10 years of experience in web development,
 specializing in JavaScript frameworks and backend technologies. 
 With a strong passion for coding and a commitment to open-source projects, Roberta is dedicated to building high-quality software that solves real-world problems.
